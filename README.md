@@ -1,15 +1,12 @@
-<!-- Create a readme for a Template, that uses vite and PixiJS, 5-->
+<!-- Create a readme for a Template, that uses vite and Phaser 3 -->
 
-# Template: Vite + PixiJS 5
+# Template: Vite + Phaser 3
 
 ## Usage
 
 ```bash
 # Install dependencies
 npm install
-
-# Init husky
-npm run prepare
 
 # Run dev server
 npm run dev
