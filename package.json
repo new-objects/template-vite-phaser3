@@ -1,7 +1,7 @@
 {
-  "name": "template-vite-phaser3",
+  "name": "template-frontend-phaser3",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -21,7 +21,10 @@
     "husky": "^8.0.0",
     "prettier": "^3.0.3",
     "vite": "^4.4.11",
-    "vite-plugin-eslint": "^1.8.1"
+    "vite-plugin-eslint": "^1.8.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3"
   },
   "dependencies": {
     "phaser": "^3.24.1"

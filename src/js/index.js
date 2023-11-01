@@ -1,3 +1,5 @@
+import '../css/style.css';
+
 import Phaser from 'phaser';
 
 function preload() {
