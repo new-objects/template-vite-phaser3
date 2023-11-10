@@ -47,7 +47,7 @@ where `<command>` is one of the following available commands:
 | `prettier`       | Formats the project                                                         | -                                                          |
 | `prettier:fix`   | Formats the project and fixes errors                                        | -                                                          |
 | `format`         | Lints and formats the project and fixes errors                              | -                                                          |
-| `gh-deploy`      | Builds the project for production (gh-pages) and deploys it to GitHub Pages | https://(new-objects).github.io/template-frontend-phaser3/ |
+| `gh-deploy`      | Builds the project for production (gh-pages) and deploys it to GitHub Pages | https://new-objects.github.io/template-frontend-phaser3/ |
 
 ## License
 
