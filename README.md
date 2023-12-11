@@ -1,8 +1,8 @@
 # Template: Frontend (Phaser 3)
 
-Template for frontend projects of newObjects GmbH, rendering 2D graphics with Phaser3 .
+[![Deploy project to GitHub Pages](https://github.com/new-objects/template-frontend-phaser3/actions/workflows/deploy.yml/badge.svg)](https://github.com/new-objects/template-frontend-phaser3/actions/workflows/deploy.yml)
 
-[DEMO](https://new-objects.github.io/template-frontend-phaser3/)
+[Template](https://new-objects.github.io/template-frontend-phaser3/) for frontend projects of newObjects GmbH, rendering 2D graphics with Phaser3 .
 
 ## Tools / stack
 
