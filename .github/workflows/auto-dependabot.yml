@@ -4,6 +4,9 @@ on:
   pull_request:
     branches: [ main ]
   workflow_dispatch:
+    inputs:
+      pr-number:
+        required: true
 
 jobs:
   unit-test:
@@ -25,6 +28,5 @@ jobs:
       - name: Merge PR from dependabot
         uses: fastify/github-action-merge-dependabot@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           target: minor
-          merge-method: rebase
+          pr-number: ${{ github.event.inputs.pr-number }}
