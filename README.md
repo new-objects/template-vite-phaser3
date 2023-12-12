@@ -1,5 +1,5 @@
 # Template: Frontend (Phaser 3)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Deploy project to GitHub Pages](https://github.com/new-objects/template-frontend-phaser3/actions/workflows/deploy.yml/badge.svg)](https://github.com/new-objects/template-frontend-phaser3/actions/workflows/deploy.yml)
 
 [Template](https://new-objects.github.io/template-frontend-phaser3/) for frontend projects of newObjects GmbH, rendering 2D graphics with Phaser3 .
@@ -35,18 +35,18 @@ $ npm run <command>
 
 where `<command>` is one of the following available commands:
 
-| Command          | Description                                                                 | Output                                                     |
-| ---------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| `install`        | Installs dependencies                                                       | -                                                          |
-| `dev`            | Starts a development server with hot reloading                              | http://localhost:5173                                      |
-| `build`          | Builds the project for production                                           | `dist`                                                     |
-| `build:gh-pages` | Builds the project for production (gh-pages)                                | `dist`                                                     |
-| `preview`        | Builds the project for production and previews it locally                   | http://localhost:4173                                      |
-| `lint`           | Lints the project                                                           | -                                                          |
-| `lint:fix`       | Lints the project and fixes errors                                          | -                                                          |
-| `prettier`       | Formats the project                                                         | -                                                          |
-| `prettier:fix`   | Formats the project and fixes errors                                        | -                                                          |
-| `format`         | Lints and formats the project and fixes errors                              | -                                                          |
+| Command          | Description                                                                 | Output                                                   |
+| ---------------- | --------------------------------------------------------------------------- | -------------------------------------------------------- |
+| `install`        | Installs dependencies                                                       | -                                                        |
+| `dev`            | Starts a development server with hot reloading                              | http://localhost:5173                                    |
+| `build`          | Builds the project for production                                           | `dist`                                                   |
+| `build:gh-pages` | Builds the project for production (gh-pages)                                | `dist`                                                   |
+| `preview`        | Builds the project for production and previews it locally                   | http://localhost:4173                                    |
+| `lint`           | Lints the project                                                           | -                                                        |
+| `lint:fix`       | Lints the project and fixes errors                                          | -                                                        |
+| `prettier`       | Formats the project                                                         | -                                                        |
+| `prettier:fix`   | Formats the project and fixes errors                                        | -                                                        |
+| `format`         | Lints and formats the project and fixes errors                              | -                                                        |
 | `gh-deploy`      | Builds the project for production (gh-pages) and deploys it to GitHub Pages | https://new-objects.github.io/template-frontend-phaser3/ |
 
 ## License
